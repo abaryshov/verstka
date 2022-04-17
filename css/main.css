@@ -1,0 +1,237 @@
+.header {
+    background: #8082ff
+}
+
+.foto {
+    position: absolute;
+    width: 96px;
+    height: 91px;
+    left: 500px;
+    top: 64px;
+    border-radius: 10px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+
+.name {
+    position: absolute;
+    left: 662px;
+    top: 78px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+}
+
+.position {
+    position: absolute;
+    left: 662px;
+    top: 100px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+.razdel {
+    position: absolute;
+    width: 614px;
+    height: 3px;
+    left: 413px;
+    top: 179px;
+    background: #000000;
+}
+
+.container {
+    position: absolute;
+    width: 614px;
+    height: 220px;
+    left: 413px;
+    top: 230px;
+    background: #FFFFFF;
+    border-radius: 3px;
+}
+
+a.facts {
+    position: absolute;
+    width: 136px;
+    height: 22px;
+    left: 250px;
+    top: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+a.facts_1 {
+    position: absolute;
+    width: 520px;
+    height: 102px;
+    left: 50px;
+    top: 70px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.skills {
+    position: absolute;
+    width: 599px;
+    height: 126px;
+    left: 413px;
+    top: 490px;
+}
+
+#sert {
+    position: absolute;
+    width: 614px;
+    height: 309px;
+    left: 411px;
+    top: 673px;
+    background: #FFFFFF;
+    border-radius: 3px;
+}
+
+a.sertificat {
+    position: absolute;
+    width: 162px;
+    height: 22px;
+    left: 250px;
+    top: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+#sertificat_1 {
+    position: absolute;
+    width: 520px;
+    height: 102px;
+    left: 25px;
+    top: 90px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 17px;
+    color: #000000;
+}
+
+#sertificat_2 {
+    position: absolute;
+    width: 289px;
+    height: 191px;
+    left: 320px;
+    top: 90px;
+    background: #F5F3F3;
+}
+
+#table {
+    position: absolute;
+    width: 614px;
+    height: 400px;
+    left: 413px;
+    top: 1000px;
+    background: #FFFFFF;
+    border-radius: 3px;
+}
+
+a.experience {
+    position: absolute;
+    width: 164px;
+    height: 22px;
+    left: 250px;
+    top: 20px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+#box {
+    position: absolute;
+    width: 529px;
+    height: 315px;
+    left: 50px;
+    top: 50px;
+    background: #E5E5E5;
+    border-radius: 3px;
+}
+
+#razdil {
+    position: absolute;
+    width: 614px;
+    height: 3px;
+    left: -50px;
+    top: 400px;
+    background: #000000;
+}
+
+
+a.feedback {
+    position: absolute;
+    width: 170px;
+    height: 22px;
+    left: 200px;
+    top: 450px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    color: #000000;
+}
+
+a.github {
+    text-decoration:none;
+    font-size: 14px;
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;   
+    line-height: 17px;
+    left: 390px;
+    color: #000000;
+    top: 500px;
+}
+
+a.telegram {
+    color: #000000;
+    text-decoration:none;
+    font-size: 14px;
+    font-weight: 500px;
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    line-height: 17px;
+    left: 200px;
+    top: 500px;
+}
+
+a.phone {
+    color: #000000;
+    text-decoration:none;
+    font-size: 14px;
+    font-weight: 500px;
+    position: absolute;
+    font-family: 'Inter';
+    font-style: normal;
+    line-height: 17px;
+    left: -50px;
+    top: 500px;
+}
